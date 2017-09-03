@@ -1,3 +1,9 @@
+
+THIS REPOSITORY IS REPLACED WITH THE BIOCONDUCTOR REPOSITORY FORK:
+
+    https://github.com/BiGCAT-UM/BridgeDbR
+    https://github.com/egonw/BridgeDbR
+
 bridgedb-r
 ==========
 
